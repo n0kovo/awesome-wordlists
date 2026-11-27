@@ -31,6 +31,7 @@ A curated list of wordlists for bruteforcing and fuzzing
 - [French wordlists](https://github.com/clem9669/wordlists)
 - [danish-wordlists](https://github.com/n0kovo/danish-wordlists) - Collection of danish base wordlists.
 - [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) - Albanian wordlist - A mix of names, last names and some albanian literature.
+- [arabic-password-patterns](https://github.com/shetosnet/arabic-password-patterns) - Arabic password habits catalog (Arabizi, Arabic-Indic digits, Egyptian mobile numbers, Arabic keyboard walks) with a 144-row test list.
 
 ## Miscellaneous
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Basically a research on several types of wordlists
